@@ -9,6 +9,12 @@
 </template>
 
 <style lang="scss">
+html{
+  background: rgb(7,71,27);
+    // background: linear-gradient(90deg, rgba(7,71,27,1) 0%, rgba(34,148,69,1) 50%, rgba(0,255,117,1) 100%);
+    background: rgb(7,71,27);
+background: linear-gradient(90deg, rgba(7,71,27,1) 0%, rgba(34,148,69,1) 50%, rgba(7,71,27,1) 100%);
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
